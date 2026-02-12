@@ -1,1 +1,1 @@
-App voom de vliegveld indeling weer te geven afhankelijk van de windrichting
+App om de vliegveld indeling weer te geven afhankelijk van de windrichting
